@@ -15,3 +15,7 @@ client/build/
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+
+.env
+server/.env
